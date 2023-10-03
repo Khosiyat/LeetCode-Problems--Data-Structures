@@ -1,2 +1,0 @@
-# LeetCode-Array
-LeetCode-Array
