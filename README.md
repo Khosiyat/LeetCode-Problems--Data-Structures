@@ -11,10 +11,10 @@
 - [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/discuss/4129626/Python-or-Easy-or-Array-or-Teemo-Attacking)
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/discuss/4129630/Python-or-Easy-or-Array-or-Can-Place-Flowers)
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/discuss/4129633/Python-or-Easy-or-Array-or-Maximum-Product-of-Three-Numbers)
-- [K Weakest Rows in a Binary Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/discuss/4077309/Python-or-Easy-or-Explained-Step-By-Step-or-K-Weakest-Rows-in-a-Binary-Matrix)
+
 
   **Matrix**
-- [________](________)
+- [K Weakest Rows in a Binary Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/discuss/4077309/Python-or-Easy-or-Explained-Step-By-Step-or-K-Weakest-Rows-in-a-Binary-Matrix)
 - [________](________)
 - [________](________)
 - [________](________)
