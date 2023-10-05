@@ -1,6 +1,4 @@
-
-
-
+**Array**
 - [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/discuss/4125716/python-easy-explained-step-by-step-number-of-good-pairs-count-identical-pairs)
 - [Two Sum](https://leetcode.com/problems/two-sum/discuss/4129609/Python-or-Easy-or-Array-or-Two-Sum)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/4129617/Python-or-Easy-or-Array-or-Best-Time-to-Buy-and-Sell-Stock)
@@ -11,7 +9,51 @@
 - [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/discuss/4129626/Python-or-Easy-or-Array-or-Teemo-Attacking)
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/discuss/4129630/Python-or-Easy-or-Array-or-Can-Place-Flowers)
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/discuss/4129633/Python-or-Easy-or-Array-or-Maximum-Product-of-Three-Numbers)
-
+ 
+- [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/discuss/4134080/Python-or-Easy-or-Array-or-Shortest-Distance-to-a-Character)
+- [Monotonic Array](https://leetcode.com/problems/monotonic-array/discuss/4134089/Python-or-Easy-or-Array-or-Monotonic-Array)
+- [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/discuss/4134094/Python-or-Easy-or-Array-or-Sort-Array-By-Parity)
+- [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/discuss/4134099/Python-or-Easy-or-Array-or-Verifying-an-Alien-Dictionary)
+- [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/discuss/4134102/Python-or-Easy-or-Array-or-Find-the-Town-Judge)
+- [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/discuss/4134106/Python-or-Easy-or-Array-or-Last-Stone-Weight)
+- [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/discuss/4134113/Python-or-Easy-or-Array-or-Check-If-It-Is-a-Straight-Line)
+- [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/discuss/4134115/Python-or-Easy-or-Array-or-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary)
+- [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/4134119/Python-or-Easy-or-Array-or-Sort-Array-by-Increasing-Frequency)
+- [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/discuss/4134123/Python-or-Easy-or-Array-or-Sign-of-the-Product-of-an-Array)
+  
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+  
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+  
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+- [________](________)
+  
 
   **Matrix**
 - [K Weakest Rows in a Binary Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/discuss/4077309/Python-or-Easy-or-Explained-Step-By-Step-or-K-Weakest-Rows-in-a-Binary-Matrix)
