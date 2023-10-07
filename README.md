@@ -35,10 +35,10 @@
 - [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/discuss/4138891/Python-or-Easy-or-Matrix-or-Reshape-the-Matrix)
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/discuss/4138894/Python-or-Easy-or-Matrix-or-Transpose-Matrix)
 - [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/discuss/4138898/Python-or-Easy-or-Matrix-or-Convert-1D-Array-Into-2D-Array)
-- [________](________)
-- [________](________)
+- [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/discuss/4142226/Python-or-Easy-or-Matrix-or-Projection-Area-of-3D-Shapes)
+- [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/discuss/4142230/Python-or-Easy-or-Matrix-or-Surface-Area-of-3D-Shapes)
  
-- [________](________)
+- [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/discuss/4142234/Python-or-Easy-or-Matrix-or-Shift-2D-Grid)
 - [________](________)
 - [________](________)
 - [________](________)
