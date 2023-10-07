@@ -37,16 +37,18 @@
 - [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/discuss/4138898/Python-or-Easy-or-Matrix-or-Convert-1D-Array-Into-2D-Array)
 - [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/discuss/4142226/Python-or-Easy-or-Matrix-or-Projection-Area-of-3D-Shapes)
 - [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/discuss/4142230/Python-or-Easy-or-Matrix-or-Surface-Area-of-3D-Shapes)
- 
 - [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/discuss/4142234/Python-or-Easy-or-Matrix-or-Shift-2D-Grid)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
+
+
+  **Linked List**
+- [Majority Element II](https://leetcode.com/problems/majority-element-ii/discuss/4142241/Python-or-Easy-or-Linked-List-or-Majority-Element-II)
+- [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/discuss/4142243/Python-or-Easy-or-Linked-List-or-Palindrome-Linked-List)
+- [Design HashMap](https://leetcode.com/problems/design-hashmap/discuss/4129614/Python-or-Easy-or-Array-or-Design-HashMap)
+- [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/discuss/4142250/Python-or-Easy-or-Linked-List-or-Middle-of-the-Linked-List)
+- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/discuss/4142252/Python-or-Easy-or-Linked-List-or-Merge-Two-Sorted-Lists)
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/discuss/4142254/Python-or-Easy-or-Linked-List-or-Linked-List-Cycle)
+- [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/4142256/Python-or-Easy-or-Linked-List-or-Intersection-of-Two-Linked-Lists)
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/discuss/4142261/Python-or-Easy-or-Linked-List-or-Reverse-Linked-List)
 - [________](________)
 - [________](________)
 - [________](________)
