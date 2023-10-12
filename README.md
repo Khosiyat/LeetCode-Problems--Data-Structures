@@ -206,13 +206,13 @@
 
 
 **Heap | Priority Queue**
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/4161190/Python-or-Easy-or-Queue-or-Heap-or-Sliding-Window-Maximum)
+- [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/discuss/4161191/Python-or-Easy-or-Queue-or-Heap-or-Minimum-Number-of-Operations-to-Make-Array-Continuous)
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/discuss/4161196/Python-or-Easy-or-Heap-or-Merge-k-Sorted-Lists)
+- [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/discuss/4161200/Python-or-Easy-or-Heap-or-The-Skyline-Problem)
+- [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/discuss/4161204/Python-or-Easy-or-Heap-or-Trapping-Rain-Water-II)
+- [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/discuss/4161209/Python-or-Easy-or-Heap-or-Sliding-Window-Median)
+- [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/discuss/4161214/Python-or-Easy-or-Heap-or-Find-Median-from-Data-Stream)
 - [________](________)
 - [________](________)
 - [________](________)
