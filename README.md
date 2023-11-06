@@ -65,49 +65,14 @@
 - [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/discuss/4150655/Python-or-Easy-or-Tree-or-Minimum-Distance-Between-BST-Nodes) 
 - [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/discuss/4150662/Python-or-Easy-or-Tree-or-Cousins-in-Binary-Tree)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/discuss/4150681/Python-or-Easy-or-Trie-or-Longest-Common-Prefix)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
 
 **Hash**
 - [Design HashMap](https://leetcode.com/problems/design-hashmap/discuss/4129614/Python-or-Easy-or-Array-or-Design-HashMap)
-
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________) 
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-  
-
-
 
 **Stack**
 - [The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/discuss/4154318/Python-or-Easy-or-Trie-or-Hash-Table-or-Stack-or-The-Maximum-Exactly-K-Comparisons)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/discuss/4154324/Python-or-Easy-or-Stack-or-Palindrome-Linked-List)
 - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/discuss/4154326/Python-or-Easy-or-Stack-or)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
 
 
 **Hash Table**
@@ -133,35 +98,11 @@
 - [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/discuss/4154295/Python-or-Easy-or-Hash-Table-or-Jewels-and-Stones)
 - [Word Pattern](https://leetcode.com/problems/word-pattern/discuss/4154311/Python-or-Easy-or-Hash-Table-or-Word-Pattern)
 - [The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/discuss/4154318/Python-or-Easy-or-Trie-or-Hash-Table-or-Stack-or-The-Maximum-Exactly-K-Comparisons)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
+
 
   **Hash Set**
 - [Design HashSet](https://leetcode.com/problems/design-hashset/discuss/4150691/Python-or-Easy-or-Hash-Set-or-Design-HashSet)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
+
 
 
 **Graph**
@@ -176,33 +117,12 @@
 - [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/discuss/4157622/Python-or-Easy-or-Graph-or-Largest-Color-Value-in-a-Directed-Graph)
 - [Count Visited Nodes in a Directed Graph](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/discuss/4157623/Python-or-Easy-or-Graph-or-Count-Visited-Nodes-in-a-Directed-Graph)
 - [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/discuss/4157625/Python-or-Easy-or-Graph-or-Minimum-Degree-of-a-Connected-Trio-in-a-Graph)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
+
 
 **Queue**
 - [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/discuss/4157627/Python-or-Easy-or-Queue-or-Maximize-the-Minimum-Powered-City)
 - [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/discuss/4157629/Python-or-Easy-or-Queue-or-Maximum-Number-of-Tasks-You-Can-Assign)
 - [Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/discuss/4157632/Python-or-Easy-or-Queue-or-Longest-Increasing-Subsequence-II)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
 
 
 **Heap | Priority Queue**
@@ -218,7 +138,3 @@
 - [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/discuss/4161824/Python-or-Easy-or-Heap-or-Minimum-Number-of-Refueling-Stops)
 - [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/discuss/4165471/Python-or-Easy-or-Heap-or-Maximum-Performance-of-a-Team)
 - [Minimum Cost](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/4165476/Python-or-Easy-or-Heap-or-Minimum-Cost)
-- [________](________)
-- [________](________)
-- [________](________)
-- [________](________)
